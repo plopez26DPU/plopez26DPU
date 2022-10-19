@@ -7,3 +7,5 @@
 
 # Holopin Board
 [![@charade's Holopin board](https://holopin.me/charade)](https://holopin.io/@charade)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plopez26DPU&theme=ocean_dark&show_icons=true&count_private=true)
