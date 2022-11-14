@@ -2,7 +2,7 @@
 ## My name is Alex Lopez.
 
 - 🔭 I’m currently working on ... [DNAnalyzer](https://github.com/plopez26DPU/DNAnalyzer)
-- 🌱 I’m currently learning ...Scala, C#, .NETCORE, gRPC 
+- 🌱 I’m currently learning ...C#, ASP.Net Core 
 - 👯 I’m looking to collaborate on ... meaningful projects and ideas.
 
 # Holopin Board
